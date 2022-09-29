@@ -1,5 +1,5 @@
 //Display 'Hello WOrld!' to the console.
-console.log('Hello Worldd!');
+console.log('Hello World!');
 
 console.log("Hello World!"); //Also displays 'Hello World!' too
 
